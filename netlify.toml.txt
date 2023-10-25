@@ -1,0 +1,15 @@
+[[redirects]]
+  from = "/qr-scan/101/*"
+  to = "http://fashionqr.netlify.app/qr-scan/101/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/qr-scan/102/*"
+  to = "http://fashionqr.netlify.app/qr-scan/102/:splat"
+  status = 200
+
+# Catch-all redirect to the root of your app (if needed)
+[[redirects]]
+  from = "/*"
+  to = "http://fashionqr.netlify.app"
+  status = 200

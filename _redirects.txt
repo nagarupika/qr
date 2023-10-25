@@ -1,0 +1,6 @@
+/qr-scan/101/*   /index.html   200
+
+/qr-scan/102/*   /index.html   200
+
+/*   /index.html   200
+

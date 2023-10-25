@@ -1,0 +1,42 @@
+/* DressDetails.css */
+.details-container {
+    max-width: 400px;
+    margin: 0 auto;
+    background: linear-gradient(135deg, #ff6b6b, #6b47ff); /* Eye-catching gradient background */
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .details-heading {
+    color: #ffffff; /* White text for contrast */
+    font-size: 32px;
+    margin-bottom: 20px;
+    font-weight: bold; /* Bold font for emphasis */
+    text-transform: uppercase; /* Uppercase text */
+  }
+  
+  details-content {
+    color: #333; /* Dark gray text color for readability */
+    font-size: 18px;
+  }
+  
+  .detail-heading {
+    color: #f9a825; /* Vibrant yellow color */
+    font-size: 22px;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .detail {
+    margin: 10px 0;
+  }
+  
+  /* Add visual elements or icons for a more attractive look */
+  .icon {
+    font-size: 36px;
+    margin-right: 10px;
+  }
+  
