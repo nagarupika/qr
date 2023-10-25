@@ -14,6 +14,15 @@ const DressDetails = ({ details }) => {
 
         <h2 className="detail-heading">Sustainability Details</h2>
         <p className="detail">{details.sustainability}</p>
+
+        <h2 className="detail-heading">Origin</h2>
+        <p className="detail">{details.origin}</p>
+
+        <h2 className="detail-heading">Garment</h2>
+        <p className="detail">{details.garment}</p>
+
+        <h2 className="detail-heading">Size</h2>
+        <p className="detail">{details.size}</p>
       </div>
     </div>
   );
