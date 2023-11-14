@@ -5,22 +5,24 @@ import './style.css';
 
 const dressDetailsData = {
   101: {
-    material: 'Silk',
-    careInstructions: 'Dry clean only',
-    sustainability: 'Made from recycled silk materials',
+    material: 'Denim',
+    careInstructions: 'Cold machine wash , Wash inside out',
+    sustainability: 'Made from recycled denim materials',
     origin: 'India',
-    brand: 'Kanchipuram-silk',
-    garment: 'Saree',
-    size: 'free-size',
+    brand: 'Tokyo Talkies',
+    garment: 'High-Rise Jeans',
+    size: '32',
+    price: '740',
   },
   102: {
-    material: 'Linen',
+    material: 'Lycra',
     careInstructions: 'Machine wash in cold water, hang dry',
-    sustainability: 'Certified organic linen, ethically sourced',
+    sustainability: 'Certified organic lycra, ethically sourced',
     origin: 'India',
-    brand: 'OTTO',
-    garment: 'Shirt',
+    brand: 'Sugr',
+    garment: 'T-Shirt',
     size: 'L-40',
+    price: '400',
   },
   103: {
     material: 'Silk',
@@ -30,6 +32,7 @@ const dressDetailsData = {
     brand: 'Kanchipuram-silk',
     garment: 'Saree',
     size: 'free-size',
+    price: '740',
   },
   104: {
     material: 'Silk',
@@ -39,6 +42,7 @@ const dressDetailsData = {
     brand: 'Kanchipuram-silk',
     garment: 'Saree',
     size: 'free-size',
+    price: '740',
   },
   105: {
     material: 'Silk',
@@ -48,6 +52,7 @@ const dressDetailsData = {
     brand: 'Kanchipuram-silk',
     garment: 'Saree',
     size: 'free-size',
+    price: '740',
   },
   106: {
     material: 'Silk',
@@ -57,6 +62,7 @@ const dressDetailsData = {
     brand: 'Kanchipuram-silk',
     garment: 'Saree',
     size: 'free-size',
+    price: '740',
   },
   107: {
     material: 'Silk',
@@ -66,6 +72,7 @@ const dressDetailsData = {
     brand: 'Kanchipuram-silk',
     garment: 'Saree',
     size: 'free-size',
+    price: '740',
   },
   108: {
     material: 'Silk',
@@ -75,6 +82,7 @@ const dressDetailsData = {
     brand: 'Kanchipuram-silk',
     garment: 'Saree',
     size: 'free-size',
+    price: '740',
   },
   109: {
     material: 'Silk',
@@ -84,6 +92,7 @@ const dressDetailsData = {
     brand: 'Kanchipuram-silk',
     garment: 'Saree',
     size: 'free-size',
+    price: '740',
   },
   110: {
     material: 'Silk',
@@ -93,6 +102,7 @@ const dressDetailsData = {
     brand: 'Kanchipuram-silk',
     garment: 'Saree',
     size: 'free-size',
+    price: '740',
   },  
 };
 

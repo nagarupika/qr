@@ -23,6 +23,9 @@ const DressDetails = ({ details }) => {
 
         <h2 className="detail-heading">Size</h2>
         <p className="detail">{details.size}</p>
+
+        <h2 className="detail-heading">Price</h2>
+        <p className="detail">{details.price}</p>
       </div>
     </div>
   );
